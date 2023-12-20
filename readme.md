@@ -10,6 +10,14 @@ The application facilitates tasks like modifying or deleting existing student re
 - **User-Friendly Interface:** The project is built on the Java Swing/GUI framework, ensuring an intuitive and easy-to-use interface.
 - **Database Integration:** Leveraging the Java Derby database, the application securely stores and manages all student details. Any changes made through the Swing interface are seamlessly reflected in the connected database.
 
+## Demo
+Explore the application's interface through the following screenshots:
+
+![Screenshot 1](https://raw.githubusercontent.com/codewithkim1/College-Management-System/main/Screenshot%20from%202023-12-20%2020-37-39.png)
+
+![Screenshot 2](https://raw.githubusercontent.com/codewithkim1/College-Management-System/main/Screenshot%20from%202023-12-20%2020-38-59.png)
+
+![Screenshot 3](https://raw.githubusercontent.com/codewithkim1/College-Management-System/main/Screenshot%20from%202023-12-20%2020-39-33.png)
 
 ## Technologies Used
 The project relies on the following technologies:
